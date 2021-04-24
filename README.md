@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, DBMS, Javascript, ML
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me = aloklaha98@gmail.com
 
 <!---
 Alok-laha/Alok-laha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
