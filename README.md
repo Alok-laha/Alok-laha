@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alok-laha
-- 👀 I’m interested in web development, DBMS, Javascript, ML
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in Software engineering, DBMS, Javascript, Cloud Technologies
+- 🌱 I’m currently learning Cloud Technologies, Scalability
 - 📫 How to reach me = aloklaha98@gmail.com
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Alok-laha&show_icons=true)
