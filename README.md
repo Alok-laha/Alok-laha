@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Alok-laha
-- 👀 I’m interested in Software engineering, DBMS, Javascript, Cloud Technologies
-- 🌱 I’m currently learning Cloud Technologies, Scalability
+- 👀 I’m interested in Software engineering, Web3, Blockchain development, AI
+- 👀 I’m working with MERN stack with AWS
+- 🌱 I’m currently learning Web3, Ethereum blockchain
 - 📫 How to reach me = aloklaha98@gmail.com
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Alok-laha&show_icons=true)
