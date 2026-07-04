@@ -63,14 +63,6 @@ I enjoy solving complex engineering problems, designing scalable architectures, 
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alok-laha&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-laha&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect
 
 📧 **Email:** aloklaha98@gmail.com
