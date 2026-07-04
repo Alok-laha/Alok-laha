@@ -1,23 +1,83 @@
-- 👋 Hi, I’m @Alok-laha
-- 👀 I’m interested in Software engineering, Web3, Blockchain development, AI
-- 👀 I’m working with MERN stack with AWS
-- 🌱 I’m currently learning Scalable system designing
-- 📫 How to reach me = aloklaha98@gmail.com
+```md
+# Hi there 👋, I'm Alok Laha
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Alok-laha&show_icons=true)
+## 💻 Software Engineer | MERN Stack Developer | AWS | Backend Engineer
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-laha&theme=blue-green)
+I'm a Software Engineer with 5+ years of experience building scalable web applications and cloud-native backend systems.
 
+I enjoy solving complex engineering problems, designing scalable architectures, and building reliable products using modern JavaScript technologies and AWS.
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+---
 
+## 🚀 Tech Stack
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Alok-laha)
+### Languages
+- JavaScript (ES6+)
+- TypeScript
+- Python
+- SQL
 
+### Frontend
+- React.js
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
 
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- GraphQL
 
-<!---
-Alok-laha/Alok-laha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Database
+- MongoDB
+- PostgreSQL
+- MySQL
+
+### Cloud & DevOps
+- AWS Lambda
+- Amazon SQS
+- EventBridge
+- API Gateway
+- CloudWatch
+- S3
+- IAM
+- Docker
+- GitHub Actions
+
+### Other Technologies
+- Redis
+- JWT Authentication
+- WebSockets
+- Microservices
+- Serverless Architecture
+
+---
+
+## 🌱 Currently Exploring
+
+- Distributed Systems
+- AI-powered Applications
+- Web3 & Blockchain
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alok-laha&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-laha&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** aloklaha98@gmail.com
+
+Always open to discussing software engineering, scalable backend systems, cloud architecture, and interesting projects.
+
+---
+
+![](https://komarev.com/ghpvc/?username=Alok-laha&style=flat-square)
+```
