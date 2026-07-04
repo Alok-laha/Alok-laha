@@ -1,4 +1,4 @@
-```md
+
 # Hi there 👋, I'm Alok Laha
 
 ## 💻 Software Engineer | MERN Stack Developer | AWS | Backend Engineer
@@ -80,4 +80,3 @@ Always open to discussing software engineering, scalable backend systems, cloud 
 ---
 
 ![](https://komarev.com/ghpvc/?username=Alok-laha&style=flat-square)
-```
